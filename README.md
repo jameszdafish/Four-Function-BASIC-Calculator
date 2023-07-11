@@ -1,3 +1,4 @@
+# This is my very first program!!! Welcome and please excuse my messiness and mistakes! I definitely will revisit to implement more features and clean up some code.
 # This is a four function calculator that includes the following features:
     • 10 digit buttons
     • 4 operation buttons
